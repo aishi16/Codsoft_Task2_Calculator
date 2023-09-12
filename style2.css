@@ -1,0 +1,73 @@
+.textcenter
+{
+    text-align: center;
+}
+.mx-auto
+{
+margin: auto;
+
+}
+.button , #EQ
+{
+margin: 3px 3px;
+padding-top: 20px;
+padding-left: 25px;
+padding-right: 25px;
+padding-bottom: 20px;
+border: 2px;
+border-color: black;
+border-style: groove;
+border-radius: 9px;
+cursor: pointer;
+font-size: larger;
+background-image: linear-gradient(rgb(3, 60, 75) ,rgb(74, 123, 141),rgb(3,60,75)) ;
+color: aliceblue;
+
+}
+.button:hover
+{
+    font-size: small;
+} 
+
+
+.itemscenter
+{
+    align-items: center;
+} 
+.display
+{
+    display: flex;
+}
+
+.flex-col
+{
+    flex-direction: column;
+}
+.container
+{
+    margin-top: 70px;
+}
+.row{
+margin:8px 0;
+}
+.input
+{
+     margin-bottom: 10px;
+   padding: 10px 0px;
+   border-radius: 30px;
+   border-color: black;
+   font-size: 2rem; 
+   text-align: end; 
+   background-color: rgb(126, 153, 171);
+   color: aliceblue;
+   border-style: outset;
+   border: 10px;
+   
+ 
+
+}
+
+
+
+
+
